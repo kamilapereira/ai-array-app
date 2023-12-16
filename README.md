@@ -1,6 +1,6 @@
 # AI Array App
 
-App Screenshot
+![ScreenShot](https://github.com/kamilapereira/ai-array-app/blob/main/src/ai-array-app.png)
 
 This is a ReactJS application that showcases array manipulation using AI algorithms.
 
