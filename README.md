@@ -6,12 +6,12 @@ This is a ReactJS application that showcases array manipulation using AI algorit
 
 ## Features
 
-    Array Operations: Perform various operations on arrays.
-    AI Algorithms: Utilize AI for array analysis.
-    Visualizations: Graphical representation of data.
+Array Operations: Perform various operations on arrays.
+AI Algorithms: Utilize AI for array analysis.
+Visualizations: Graphical representation of data.
 
 Access the application at https://kamilapereira.github.io/ai-array-app/.
 
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
